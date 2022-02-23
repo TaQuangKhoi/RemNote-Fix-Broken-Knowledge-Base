@@ -1,5 +1,8 @@
 # RemNote Fix Broken Knowledge Base
 **I will check Daily Backup if it does not have MrRk9GajDWrjzXkBt rem, will use to import to my KB**
+
+There's no **MrRk9GajDWrjzXkBt** in February 14th, 2022 12:21 am
+
 Error Message:
 ```json
 Long write guarantees:
