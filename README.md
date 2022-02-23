@@ -1,5 +1,5 @@
 # RemNote Fix Broken Knowledge Base
-I think I can use Python
+**I will check Daily Backup if it does not have MrRk9GajDWrjzXkBt rem, will use to import to my KB**
 Error Message:
 ```json
 Long write guarantees:
