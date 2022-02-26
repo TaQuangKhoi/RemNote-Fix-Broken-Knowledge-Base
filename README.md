@@ -1,4 +1,5 @@
 # RemNote Fix Broken Knowledge Base
+# Fixed on on deploy 1.7.2
 **I will check Daily Backup if it does not have MrRk9GajDWrjzXkBt rem, will use to import to my KB**
 
 There's no **MrRk9GajDWrjzXkBt** in February 19th, 2022
